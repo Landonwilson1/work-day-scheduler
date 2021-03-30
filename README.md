@@ -1,4 +1,4 @@
-# work-day-scheduler
+# Work Day Scheduler
 
 This program uses Javascript CSS HTML and API's to make a dynamic work day scheduler.
 
